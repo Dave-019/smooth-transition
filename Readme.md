@@ -51,7 +51,7 @@ The script operates in several distinct phases to create the final mix:
     ```
     Then, install them with pip:
     ```bash
-    pip install -r requirements.txt
+    pip install -r requirement.txt
     ```
 
 ## Usage
